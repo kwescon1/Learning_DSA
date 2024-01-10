@@ -2,6 +2,14 @@
 
 Welcome to "Learning_DSA" - my personal repository where I share my learning journey in the fascinating world of Data Structures and Algorithms. This repository is intended for anyone who wishes to delve into the basics of DSA and understand its practical applications.
 
+## What's an **ALGORITHM**
+
+- Simply put, an **algorithm is a set of instructions for accomplishing a task**
+
+## What's a **DATA STRUCTURE**?
+
+- A data structure in simple terms is a format for organizing, processing, retrieving, and storing data.
+
 ## What's Inside?
 
 - **Binary Search:** Dive into the efficient world of searching algorithms, starting with the classic Binary Search. Understand how to cut down your search to half every time!
