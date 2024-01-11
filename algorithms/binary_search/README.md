@@ -6,6 +6,11 @@
   - It compares the target element to the middle element of the list; if they are not equal, it halves the list and repeats the process on the relevant half.
   - The search ends when the element is found or the sublist cannot be halved further (the element is not present).
 
+  - **Function Parameters:**
+  - Binary search takes two parameters:
+    1. The list to search within.
+    2. The element to search for.
+
 - **Performance:**
 
   - The running time in Big O notation is O(log n), where 'log' refers to the logarithm base 2.
