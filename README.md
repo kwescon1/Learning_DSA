@@ -16,6 +16,10 @@ Welcome to "Learning_DSA" - my personal repository where I share my learning jou
 
 - **And More:** As I continue my learning journey, I'll be adding more algorithms and data structures, along with my notes and insights.
 
+## Languages Used for Implementation
+
+- The code implementations in this repository are primarily written in **Python** and **Java**.
+
 ## Getting Started
 
 To get started, clone this repository:
