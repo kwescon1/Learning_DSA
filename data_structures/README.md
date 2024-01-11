@@ -8,13 +8,13 @@ Now, let's explore the analogy of a chest of drawers to help understand how memo
 
 Imagine a chest of drawers in your home. Each drawer can hold different items, just like memory in a computer holds different pieces of data.
 
-![Chest of Drawers](images/drawer_analogy/1.png)
+<img src="images/drawer_analogy/1.png" width="50%" height="50%">
 
 ## Items in Drawers (Data)
 
 Think of each item you place in a drawer as a piece of data stored in the computer's memory. Just like items, each piece of data has its own place.
 
-![Items in Drawers](images/drawer_analogy/2.png)
+<img src="images/drawer_analogy/2.png" width="50%" height="50%">
 
 ## Storing Items (Writing Data to Memory)
 
@@ -24,13 +24,13 @@ When you store items in a drawer, you are using a space to keep your things orga
 
 Whenever you need something, you go to the specific drawer where the item is stored and retrieve it. This is akin to accessing data from a specific memory location in a computer.
 
-![Retrieving Items](images/drawer_analogy/3.png)
+<img src="images/drawer_analogy/3.png" width="50%" height="50%">
 
 ## Drawer Labels (Memory Addresses)
 
 You might label each drawer with a list of items inside or a category. In the world of computers, each 'drawer' has a memory address, helping the system know where each piece of data is stored.
 
-![Drawer Labels](images/drawer_analogy/4.png)
+<img src="images/drawer_analogy/4.png" width="50%" height="50%">
 
 # Understanding Computer Memory: A Library Analogy
 
@@ -38,13 +38,13 @@ You might label each drawer with a list of items inside or a category. In the wo
 
 Imagine a library filled with bookshelves. These bookshelves are well-organized with rows and columns, each shelf ready to hold books. This is similar to how computer memory is structured, where each 'shelf' is like a segment of memory ready to hold data.
 
-![Library and Bookshelves](images/library_analogy/1.png)
+<img src="images/library_analogy/1.png" width="50%" height="50%">
 
 ## Books (Data)
 
 In our library, books represent data. Each book has a unique identifier, like an ISBN, akin to a memory address in a computer. The books can be accessed, read, and re-shelved.
 
-![Books (Data)](images/library_analogy/2.png)
+<img src="images/library_analogy/2.png" width="50%" height="50%">
 
 ## Storing Books (Writing Data to Memory)
 
@@ -54,10 +54,10 @@ When a new book arrives, it's cataloged and placed on the correct shelf. This is
 
 If you want to find a book, you look it up in the catalog to get its location, and then you retrieve it from the shelf. This is how a computer accesses data - it uses the memory address to locate and retrieve the data.
 
-![Finding Books](images/library_analogy/3.png)
+<img src="images/library_analogy/3.png" width="50%" height="50%">
 
 ## Library Catalog (Memory Addressing)
 
 The library catalog, with its system of cards and drawers, organizes the locations of all the books. In a computer, the memory addressing system keeps track of where each piece of data is stored.
 
-![Library Catalog](images/library_analogy/4.png)
+<img src="images/library_analogy/4.png" width="50%" height="50%">
