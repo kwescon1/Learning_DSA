@@ -22,4 +22,7 @@ def binarySaerch(list,item):
             high = midPoint - 1
         
     return None # Item not found
-        
+
+
+
+print(binarySaerch([1,3,4,5,7,9,45],5))
