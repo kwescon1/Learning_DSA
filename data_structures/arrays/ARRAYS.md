@@ -1,8 +1,5 @@
 # ARRAYS
 
-To place the image of an array and the text side by side in a markdown document, you'll need to use HTML to create a table structure, as markdown itself doesn't support complex layout formatting. Here's how you can do it:
-
-```html
 <table>
   <tr>
     <td>
@@ -34,4 +31,3 @@ To place the image of an array and the text side by side in a markdown document,
     </td>
   </tr>
 </table>
-```
