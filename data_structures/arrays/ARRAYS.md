@@ -1,3 +1,4 @@
+```markdown
 # ARRAYS
 
 <table>
@@ -23,3 +24,4 @@ An array is a data structure in computer science that consists of a collection o
 
   </tr>
 </table>
+```
