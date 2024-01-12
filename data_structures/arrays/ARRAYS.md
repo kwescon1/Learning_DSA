@@ -14,4 +14,17 @@ An array is a data structure in computer science that consists of a collection o
 
 ![Array of 6 elements](../images/arrays/array.png)
 
-From the image, you can see numbers labeled on top of each box. These numbers are known as **_indices (singular: index)_** in an array. In computer science, arrays typically start from index 0, not 1. This means that the first element in the array is accessed at index 0, the second element at index 1, and so on. This zero-based indexing is standard in many programming languages, as it often simplifies the computation of the memory address of each element. It's an important concept to grasp since it influences how you navigate and manipulate arrays in most programming tasks.
+- **Array Indices:**
+
+  - In the depicted image, the numbers on top of each box are known as indices (singular: index).
+  - Indices are used to identify each position or slot in an array.
+
+- **Zero-Based Indexing:**
+
+  - Arrays typically start from index 0, not 1.
+  - This means the first element in the array is at index 0, the second at index 1, and so forth.
+
+- **Importance in Programming:**
+  - Zero-based indexing is a standard in many programming languages.
+  - It simplifies calculations related to the memory address of each element.
+  - Understanding zero-based indexing is crucial for effectively navigating and manipulating arrays in coding.
