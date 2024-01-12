@@ -1,9 +1,4 @@
-```markdown
 # ARRAYS
-
-<table>
-  <tr>
-    <td>
 
 ### When we say Array, what do we mean?
 
@@ -17,11 +12,4 @@ For example, imagine you have a row of boxes to store numbers: [3, 7, 1, 9, 4]. 
 
 An array is a data structure in computer science that consists of a collection of elements or values, each identified by an index or a key. These elements are stored in contiguous memory locations, allowing for efficient and direct access based on their position within the array. Arrays are typically used to store and manage multiple pieces of data of the same data type, organized in a linear or sequential fashion.
 
-    </td>
-    <td>
-      <img src="../images/arrays/array.png" alt="Array of 6 elements" style="width:50%;" />
-    </td>
-
-  </tr>
-</table>
-```
+![Array of 6 elements](../images/arrays/array.png)
