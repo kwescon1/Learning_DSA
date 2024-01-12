@@ -25,3 +25,11 @@ Imagine a chest of drawers in your home. Each drawer can hold different items, m
 | ![Items in Drawers](images/drawer_analogy/2.png)                                                                                                                  | ![Storing Items](images/drawer_analogy/3.png)                                                                                       | ![Retrieving Items](images/drawer_analogy/3.png)                                                                                                                                      | ![Drawer Labels](images/drawer_analogy/4.png)                                                                                                                                                     |
 
 This analogy helps illustrate how computer memory works by comparing it to a chest of drawers in your home.
+
+- When you need to store an item in computer memory, you request space from the computer, and it provides you with a specific address where you can place your item.
+
+- When you intend to store multiple items, there are two fundamental ways: **ARRAYS** and **LISTS**.
+
+### What Next?
+
+# [ARRAYS](arrays/ARRAYS.md)
