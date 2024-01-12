@@ -18,7 +18,7 @@ An array is a data structure in computer science that consists of a collection o
 
     </td>
     <td>
-      <img src="../images/arrays/array.png" alt="Array of 6 elements" style="width:50%;"/>
+      <img src="../images/arrays/array.png" alt="Array of 6 elements" style="width:50%;" />
     </td>
 
   </tr>
