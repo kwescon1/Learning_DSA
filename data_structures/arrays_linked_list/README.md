@@ -104,4 +104,20 @@ Operations on linked lists typically include inserting and deleting nodes, trave
 
 - Linked lists are efficient for sequential access, as you read items one after another.
 
-### Arrays provide direct access to any item using its index, allowing for efficient random access without sequential traversal.
+**Arrays provide direct access to any item using its index, allowing for efficient random access without sequential traversal.**
+
+Below are the run times for common operations on arrays and lists.
+
+Arrays List
+Reading - O(1) O(n)
+Insertion - O(n) O(1)
+
+Certainly! Here's the information you provided in a markdown table format:
+
+| Operation     | Arrays         | Linked Lists   |
+| ------------- | -------------- | -------------- |
+| **Reading**   | O(1) (average) | O(1) (average) |
+|               | O(n) (worst)   | O(n) (worst)   |
+| **Insertion** | O(n) (average) | O(1) (average) |
+|               | O(1) (best)    | O(1) (best)    |
+|               | O(n) (worst)   | O(n) (worst)   |
