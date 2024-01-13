@@ -32,4 +32,4 @@ This analogy helps illustrate how computer memory works by comparing it to a che
 
 ### What Next?
 
-# [ARRAYS](arrays/ARRAYS.md)
+# [ARRAYS](arrays_linked_list/README.md)
