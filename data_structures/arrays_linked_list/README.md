@@ -112,3 +112,8 @@ Below are the run times for common operations on arrays and lists.
 | ------------- | ------ | ------------ |
 | **Reading**   | O(1)   | O(n)         |
 | **Insertion** | O(n)   | O(1)         |
+| **Deletion**  | O(n)   | O(1)         |
+
+**O(n) - Linear time**
+
+**O(1) - Constant time**
